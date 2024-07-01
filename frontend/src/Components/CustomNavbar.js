@@ -60,7 +60,7 @@
 // export default CustomNavbar;
 import React, { useEffect, useState } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import Shekhar_logo from "../assets/img/Shekhar_logo.png";
+import Shekhar_logo from "../assets/img/Shekhar_logo_1.png";
 import logo from '../assets/img/logo.svg'
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
